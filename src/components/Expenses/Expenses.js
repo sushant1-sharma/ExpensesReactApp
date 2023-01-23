@@ -5,7 +5,7 @@ const Expenses = ()=> {
   const expenses = [
     {
       id: "e1",
-      title: "Toilet Paper",
+      title: "SmartPhone",
       amount: 94.12,
       date: new Date(2020, 7, 14),
     },
